@@ -1,4 +1,4 @@
-# Golang 
+# Java
 Repositório destinado ao curso "Java Completo Programação Orientada a Objetos + Projetos" da Udemy.
 
 # Procedimentos iniciais
